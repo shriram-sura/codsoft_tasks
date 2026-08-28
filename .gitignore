@@ -1,0 +1,52 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+
+Churn_Modelling.csv
+Churn_Modelling 2.csv
+
+Genre Classification Dataset/train_data.txt
+Genre Classification Dataset/test_data.txt
+Genre Classification Dataset/test_data_solution.txt
+Genre Classification Dataset/description.txt
+
+Genre Classification Dataset 2/
+
+TASK-2/fraudTrain.csv
+TASK-2/fraudTest.csv
+
+TASK-3/Churn_Modelling.csv
+TASK-3/Churn_Modelling 2.csv
+
+archive.zip
+archive (1).zip
+TASK-3.zip
+Task 1/train_data.txt
+Task 1/test_data.txt
+Task 1/test_data_solution.txt
+Task 1/description.txt
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+
+Churn_Modelling.csv
+Churn_Modelling 2.csv
+
+Task 1/train_data.txt
+Task 1/test_data.txt
+Task 1/test_data_solution.txt
+Task 1/description.txt
+
+Task 2/fraudTrain.csv
+Task 2/fraudTest.csv
+
+Task 3/Churn_Modelling.csv
+Task 3/Churn_Modelling 2.csv
+
+archive.zip
+archive (1).zip
+TASK-3.zip
